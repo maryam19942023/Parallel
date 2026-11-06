@@ -3,6 +3,7 @@
     <TargetFramework>net10.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.0" />
     <ProjectReference Include="../Parallel.Domain/Parallel.Domain.csproj" />
   </ItemGroup>
 </Project>
