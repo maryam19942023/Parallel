@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Parallel.Api/Parallel.Api.csproj" />
+    <Project Path="src/Parallel.Application/Parallel.Application.csproj" />
+    <Project Path="src/Parallel.Domain/Parallel.Domain.csproj" />
+    <Project Path="src/Parallel.Infrastructure/Parallel.Infrastructure.csproj" />
+  </Folder>
+</Solution>
